@@ -68,7 +68,7 @@ Some settings to consider when using JosKreativ extension that I personally like
 | Live Server | Ritwick Dey |  | Launch your webapp from vscode with a click | Almost mandatory | 10/10 |
 | HTML CSS Suport | ecmel |  |  |  |  |
 | IntelliSense for CSS class names in HTML | Zignd | [link](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) | Your CSS classes will appear in your HTML as suggestions |  | 10/10 |
-| Auto Rename Tag | Jun Han |  | Update open/closing tag automatically |  | 10/10 |
+| Auto Rename Tag | Jun Han |  | Update open/closing tag automatically | ALREADY INCLUDED IN VSCODE | 10/10 |
 | Color Highlight | Sergii Naumov |  | Nice for CSS files to preview colors #fff in the editor |  | 8/10 |
 | Image preview | Kiss Tamás | Preview images in HTML code editor |  |  | 10/10 |
 
@@ -94,10 +94,13 @@ Some settings to consider when using JosKreativ extension that I personally like
 
 ## Angular
 
+Autocompletion of imports works out of the box in VS Code. 
+
 | Extension | Author | Marketplace | For | Comments | MyStars |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Angular Language Service | Angular |  |  |  |  |
+| Angular Language Service | Angular | [link](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template) | Add basic intellisense for HTML | Recognizes keyworks (ngFor, async) and code-behind variables | 8/10 |
+| VSCode simple Icons with Angular | davidbabel | [link](https://marketplace.visualstudio.com/items?itemName=davidbabel.vscode-simpler-icons) | Icons for Angular | Helps a lot distinguishing files (services, modules, etc.) | 10/10 |
 | Angular Snippets (Version 12) | John Papa |  |  |  |  |
-| angular2-inline | Nate Wallace |  |  |  |  |
+| angular2-inline | Nate Wallace |  | Syntax highlight of inline HTML and CSS (in code behind) |  |  |
 | Bracket Pair Colorizer 2 | CoenraadS |  |  | Good in Angular since almost anywhere you end up with nested brackets |  |
 | C# to TypeScript | Adrian Wilczynski |  |  |  |  |
