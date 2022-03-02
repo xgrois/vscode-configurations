@@ -32,6 +32,13 @@ Other that might be of interest in general:
 
 ```
 
+## _Git/GitHub_##
+
+| Extension | Author | Marketplace | For | Comments | MyStars |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| gitignore | CodeZombie | [link](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) | Add specific gitignore files (instead of navigating to gitignore.io site) | E.g., add .gitignore template for Visual Studio | 10/10 |
+| GitHub Actions | KnisterPeter | [link](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github) | Integrates github and GitHub Actions | - | 10/10 |
+
 ## _For C#_
 
 | Extension | Author | Marketplace | For | Comments | MyStars |
