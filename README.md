@@ -32,7 +32,7 @@ Other that might be of interest in general:
 
 ```
 
-## _Git/GitHub_##
+## _Git/GitHub_
 
 | Extension | Author | Marketplace | For | Comments | MyStars |
 | ------ | ------ | ------ | ------ | ------ | ------ |
